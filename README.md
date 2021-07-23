@@ -24,7 +24,5 @@ add project1/app_jquery.js
 
 
 
-
-
 ---
 file refactoring
